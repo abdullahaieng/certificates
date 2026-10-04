@@ -47,7 +47,7 @@ A structured repository containing official PDF documents and visual previews fo
 ### 💻 3. Web Development & Programming
 
 <p align="center">
-  <img src="./assets/certificates/METAINTRODUCTIONTOFRONTEND.png" width="48%" alt="Meta Front-End" />
+  <img src="./assets/certificates/METAINTRODUCTIONTO FRONTEND.png" width="48%" alt="Meta Front-End" />
   <img src="./assets/certificates/CLAUDECODE101.png" width="48%" alt="Claude Code 101" />
 </p>
 
